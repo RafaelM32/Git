@@ -7,4 +7,4 @@ def hello():
     return "hello word"
 
 
-app.run()
+app.run(port=3000)
